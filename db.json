@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "5",
+      "username": "michael",
+      "email": "michael.brown@example.com"
+    },
+    {
+      "id": "7",
+      "username": "david_wilson",
+      "email": "david.wilson@example.com"
+    },
+    {
+      "id": "8",
+      "username": "sarah_white",
+      "email": "sarah.white@example.com"
+    },
+    {
+      "id": "9",
+      "username": "robert_miller",
+      "email": "robert.miller@example.com"
+    },
+    {
+      "id": "10",
+      "username": "nancy_green",
+      "email": "nancy.green@example.com"
+    },
+    {
+      "id": "f7bf",
+      "username": "us",
+      "email": "user1@gmail.com"
+    }
+  ]
+}
